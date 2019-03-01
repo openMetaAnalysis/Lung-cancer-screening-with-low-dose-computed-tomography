@@ -1,12 +1,12 @@
-Template: clinical question
+Lung cancer screening with low-dose computed tomography
 ============================================
 A living systematic review
 
-Short url: http://
+Short url: http://openmetaanalysis.github.io/lung-cancer-screening
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates the previously published meta-analysis.(1)
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. However, heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 61%. This review updates previously published meta-analysis(es).(citation[s] below)
 
-Meta-regression dooes not find modulators (year of publication, study size, event rate in the control groups) on the effect of the intervention.
+Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 * [Keep current with this topic](files/searching/Keep-up.md) (under construction)
 
@@ -34,16 +34,21 @@ References:
 ----------------------------------
 
 ### Systematic review(s)
-#### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+#### Most recent review at time of last revision of this repository 
+1. Snowsill T, Yang H, Griffin E, Long L, Varley-Campbell J, Coelho H, Robinson S, Hyde C. Low-dose computed tomography for lung cancer screening in high-risk populations: a systematic review and economic evaluation. Health Technol Assess.  2018 Nov;22(69):1-276. doi: 10.3310/hta22690. PMID: [30518460](http://pubmed.gov/30518460)
+2. Coureau G, Salmi LR, Etard C, Sancho-Garnier H, Sauvaget C, Mathoulin-Pélissier S. Low-dose computed tomography screening for lung cancer in populations highly exposed to tobacco: A systematic methodological appraisal of published randomised controlled trials. Eur J Cancer. 2016 Jul;61:146-56. doi: 10.1016/j.ejca.2016.04.006. PMID: [27211572](http://pubmed.gov/27211572)
+3. Manser R, Lethaby A, Irving LB, Stone C, Byrnes G, Abramson MJ, Campbell D. Screening for lung cancer. Cochrane Database Syst Rev. 2013 Jun 21;(6):CD001991. doi: 10.1002/14651858.CD001991.pub3. PMID: [23794187](http://pubmed.gov/23794187)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+1. Paci E, Puliti D, Lopes Pegna A, Carrozzi L, Picozzi G, Falaschi F, Pistelli F, Aquilini F, Ocello C, Zappa M, Carozzi FM, Mascalchi M; the ITALUNG Working Group. Mortality, survival and incidence rates in the ITALUNG randomised lung cancer screening trial. Thorax. 2017 Sep;72(9):825-831. doi: 10.1136/thoraxjnl-2016-209825. PMID: [28377492](http://pubmed.gov/28377492)
 
 #### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
+1. Wille MM, Dirksen A, Ashraf H, Saghir Z, Bach KS, Brodersen J, Clementsen PF, Hansen H, Larsen KR, Mortensen J, Rasmussen JF, Seersholm N, Skov BG, Thomsen LH, Tønnesen P, Pedersen JH. Results of the Randomized Danish Lung Cancer Screening Trial with Focus on High-Risk Profiling. Am J Respir Crit Care Med. 2016 Mar 1;193(5):542-51. doi: 10.1164/rccm.201505-1040OC. PMID: [26485620](http://pubmed.gov/26485620)
+2. Becker N, Motsch E, Gross ML, Eigentopf A, Heussel CP, Dienemann H, Schnabel PA, Eichinger M, Optazaite DE, Puderbach M, Wielpütz M, Kauczor HU, Tremper J, Delorme S. Randomized Study on Early Detection of Lung Cancer with MSCT in Germany: Results of the First 3 Years of Follow-up After Randomization. J Thorac Oncol. 2015 Jun;10(6):890-6. doi: 10.1097/JTO.0000000000000530. PMID: [25783198](http://pubmed.gov/25783198)
+3. Infante M, Cavuto S, Lutman FR, Passera E, Chiarenza M, Chiesa G, Brambilla G, Angeli E, Aranzulla G, Chiti A, Scorsetti M, Navarria P, Cavina R, Ciccarelli M,  Roncalli M, Destro A, Bottoni E, Voulaz E, Errico V, Ferraroli G, Finocchiaro G,  Toschi L, Santoro A, Alloisio M; DANTE Study Group. Long-Term Follow-up Results of the DANTE Trial, a Randomized Study of Lung Cancer Screening with Spiral Computed Tomography. Am J Respir Crit Care Med. 2015 May 15;191(10):1166-75. doi: 10.1164/rccm.201408-1475OC. PMID: [25760561](http://pubmed.gov/25760561)
+4. Black WC, Gareen IF, Soneji SS, Sicks JD, Keeler EB, Aberle DR, Naeim A, Church TR, Silvestri GA, Gorelick J, Gatsonis C; National Lung Screening Trial Research Team. Cost-effectiveness of CT screening in the National Lung Screening  Trial. N Engl J Med. 2014 Nov 6;371(19):1793-802. doi: 10.1056/NEJMoa1312547. PMID: [25372087](http://pubmed.gov/25372087)
+5. Pastorino U, Rossi M, Rosato V, Marchianò A, Sverzellati N, Morosi C, Fabbri A, Galeone C, Negri E, Sozzi G, Pelosi G, La Vecchia C. Annual or biennial CT screening versus observation in heavy smokers: 5-year results of the MILD trial. Eur J Cancer Prev. 2012 May;21(3):308-15. doi: 10.1097/CEJ.0b013e328351e1b6. PMID: [22465911](http://pubmed.gov/22465911)
 
 #### Trial(s) undergoing review
 None
