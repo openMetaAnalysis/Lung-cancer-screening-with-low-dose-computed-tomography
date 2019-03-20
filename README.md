@@ -48,12 +48,12 @@ References:
 2. Becker N, Motsch E, Gross ML, Eigentopf A, Heussel CP, Dienemann H, Schnabel PA, Eichinger M, Optazaite DE, Puderbach M, Wielpütz M, Kauczor HU, Tremper J, Delorme S. Randomized Study on Early Detection of Lung Cancer with MSCT in Germany: Results of the First 3 Years of Follow-up After Randomization. J Thorac Oncol. 2015 Jun;10(6):890-6. doi: 10.1097/JTO.0000000000000530. PMID: [25783198](http://pubmed.gov/25783198)
 3. Infante M, Cavuto S, Lutman FR, Passera E, Chiarenza M, Chiesa G, Brambilla G, Angeli E, Aranzulla G, Chiti A, Scorsetti M, Navarria P, Cavina R, Ciccarelli M,  Roncalli M, Destro A, Bottoni E, Voulaz E, Errico V, Ferraroli G, Finocchiaro G,  Toschi L, Santoro A, Alloisio M; DANTE Study Group. Long-Term Follow-up Results of the DANTE Trial, a Randomized Study of Lung Cancer Screening with Spiral Computed Tomography. Am J Respir Crit Care Med. 2015 May 15;191(10):1166-75. doi: 10.1164/rccm.201408-1475OC. PMID: [25760561](http://pubmed.gov/25760561)
 4. Black WC, Gareen IF, Soneji SS, Sicks JD, Keeler EB, Aberle DR, Naeim A, Church TR, Silvestri GA, Gorelick J, Gatsonis C; National Lung Screening Trial Research Team. Cost-effectiveness of CT screening in the National Lung Screening  Trial. N Engl J Med. 2014 Nov 6;371(19):1793-802. doi: 10.1056/NEJMoa1312547. PMID: [25372087](http://pubmed.gov/25372087)
-5. Pastorino U, Rossi M, Rosato V, Marchianò A, Sverzellati N, Morosi C, Fabbri A, Galeone C, Negri E, Sozzi G, Pelosi G, La Vecchia C. Annual or biennial CT screening versus observation in heavy smokers: 5-year results of the MILD trial. Eur J Cancer Prev. 2012 May;21(3):308-15. doi: 10.1097/CEJ.0b013e328351e1b6. PMID: [22465911](http://pubmed.gov/22465911)
 
 #### Trial(s) undergoing review
 None
 
 #### Trial(s) excluded - selected list of important trial(s)
+1. Pastorino U, Rossi M, Rosato V, Marchianò A, Sverzellati N, Morosi C, Fabbri A, Galeone C, Negri E, Sozzi G, Pelosi G, La Vecchia C. Annual or biennial CT screening versus observation in heavy smokers: 5-year results of the MILD trial. Eur J Cancer Prev. 2012 May;21(3):308-15. doi: 10.1097/CEJ.0b013e328351e1b6. PMID: [22465911](http://pubmed.gov/22465911) *Excluded on the basis of concerns expressied in the HTA systematic review (Snowsill).*
 
 #### Cited by
 This repository is cited by:
