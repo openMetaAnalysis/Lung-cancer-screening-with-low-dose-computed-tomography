@@ -6,7 +6,7 @@ Short url: http://openmetaanalysis.github.io/lung-cancer-screening
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. However, heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 61%. This review updates previously published meta-analysis(es).(citation[s] below)
 
-Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
+Meta-regression of common modulators (year of publication, study size, event rate in the control groups) as well as the number of rounds of screening, find that the outcome of the intervention is effected by these factors.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 * [Keep current with this topic](files/searching/Keep-up.md) (under construction)
 
