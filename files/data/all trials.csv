@@ -1,5 +1,5 @@
 Study,Year,PMID,experimental_events,experimental_total,control_events,control_total,rate_male,median_pack_years,invite.frequency,tests.performed
-'National Lung Screening Trial (NLST)',2011,25372087,518,26722,587,26732,,,1,3
+'National Lung Screening Trial (NLST)',2011,25372087,469,26722,552,26732,,,1,3
 'DANTE',2015,25760561,59,1264,55,1186,,,1,5
 'Danish Lung Cancer Screening Trial (DLCST)',2016,26485620,165,2052,163,2052,,,1,5
 'ITALUNG',2017,28377492,154,1613,181,1593,,,1,4
