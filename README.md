@@ -36,8 +36,9 @@ References:
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository 
 1. Snowsill T, Yang H, Griffin E, Long L, Varley-Campbell J, Coelho H, Robinson S, Hyde C. Low-dose computed tomography for lung cancer screening in high-risk populations: a systematic review and economic evaluation. Health Technol Assess.  2018 Nov;22(69):1-276. doi: 10.3310/hta22690. PMID: [30518460](http://pubmed.gov/30518460)
-2. Coureau G, Salmi LR, Etard C, Sancho-Garnier H, Sauvaget C, Mathoulin-Pélissier S. Low-dose computed tomography screening for lung cancer in populations highly exposed to tobacco: A systematic methodological appraisal of published randomised controlled trials. Eur J Cancer. 2016 Jul;61:146-56. doi: 10.1016/j.ejca.2016.04.006. PMID: [27211572](http://pubmed.gov/27211572)
-3. Manser R, Lethaby A, Irving LB, Stone C, Byrnes G, Abramson MJ, Campbell D. Screening for lung cancer. Cochrane Database Syst Rev. 2013 Jun 21;(6):CD001991. doi: 10.1002/14651858.CD001991.pub3. PMID: [23794187](http://pubmed.gov/23794187)
+2. Usman Ali M, Miller J, Peirson L, Fitzpatrick-Lewis D, Kenny M, Sherifali D, Raina P. Screening for lung cancer: A systematic review and meta-analysis. Prev Med. 2016 Aug;89:301-314. doi: 10.1016/j.ypmed.2016.04.015. PMID: [27130532](http://pubmed.gov/27130532)
+3. Coureau G, Salmi LR, Etard C, Sancho-Garnier H, Sauvaget C, Mathoulin-Pélissier S. Low-dose computed tomography screening for lung cancer in populations highly exposed to tobacco: A systematic methodological appraisal of published randomised controlled trials. Eur J Cancer. 2016 Jul;61:146-56. doi: 10.1016/j.ejca.2016.04.006. PMID: [27211572](http://pubmed.gov/27211572)
+4. Manser R, Lethaby A, Irving LB, Stone C, Byrnes G, Abramson MJ, Campbell D. Screening for lung cancer. Cochrane Database Syst Rev. 2013 Jun 21;(6):CD001991. doi: 10.1002/14651858.CD001991.pub3. PMID: [23794187](http://pubmed.gov/23794187)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
