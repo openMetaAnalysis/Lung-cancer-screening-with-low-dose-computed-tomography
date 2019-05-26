@@ -37,14 +37,13 @@ Seed articles: PMIDs [21714641,24004119,25760561,26485620,22465911,28377492,2578
 (under construction)
 
 ### Identifying seminal studies that are the most highly cited
-Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalva Manoeuvre for reversion of supraventricular tachycardia. Cochrane Database Syst Rev. 2013 Mar 28;(3):CD009502. doi: 10.1002/14651858.CD009502.pub2. Review. Update in: Cochrane Database Syst Rev. 2015 PMID: [23543578](http://pubmed.gov/23543578).
- * [17 citations](https://scholar.google.com/scholar?cites=2217747907445562937&as_sdt=2005&sciodt=0,5&hl=en) (search 6/19/2017)
+National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http://pubmed.gov/21714641).
+ * [5099 citations](https://scholar.google.com/scholar?cites=1550924767538217466&as_sdt=2005&sciodt=0,5&hl=en) (search 05/26/2019)
+Manser et al. Cochrane Database Syst Rev. 2013 PMID: [23794187](http://pubmed.gov/23794187)
+ * [242 citations](https://scholar.google.com/scholar?cites=6415203990104162860&as_sdt=2005&sciodt=0,5&hl=en) (search 05/26/2019)
 
-Mehta D, Wafa S, Ward DE, Camm AJ. Relative efficacy of various physical manoeuvres in the termination of junctional tachycardia. Lancet. 1988.PMID: [2897005](http://pubmed.gov/2897005).
- * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801) (search 6/19/2017)
-
-
-### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
-Mehta et al. 
-* [12 citations](https://scholar.google.com/scholar?q=random&btnG=&hl=en&as_sdt=0%2C5&sciodt=0%2C5&cites=7605211014335624801&scipsc=1) (limited to citing articles containing random\*)
-* [x additional studies found](https://pubmed.gov/25503625,27045252)
+### Searching 'randomized AND mortality' since 2017 (search date of [Snowsill systematic review]()) within the highly citing studyies using Google Scholar (05/26/2019)
+National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http://pubmed.gov/21714641).
+* [910 citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017&as_yhi=2020&cites=1550924767538217466&scipsc=1)
+* x studies required review of full text
+  * [x](https://pubmed.gov/25503625,27045252)
