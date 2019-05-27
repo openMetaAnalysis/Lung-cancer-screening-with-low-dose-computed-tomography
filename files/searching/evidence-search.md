@@ -45,5 +45,7 @@ Manser et al. Cochrane Database Syst Rev. 2013 PMID: [23794187](http://pubmed.go
 ### Searching 'randomized AND mortality' since 2017 (search date of [Snowsill systematic review]()) within the highly citing studyies using Google Scholar (05/26/2019)
 National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http://pubmed.gov/21714641).
 * [910 citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017&as_yhi=2020&cites=1550924767538217466&scipsc=1)
-* x studies required review of full text
-  * [x](https://pubmed.gov/25503625,27045252)
+ * Citations were sorted be relevance and the first 100 were reviweed
+   * x studies required review of full text
+     * Jone, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
+     * Smith, 2017. PMID [87654321](https://pubmed.gov/87654321). Included
