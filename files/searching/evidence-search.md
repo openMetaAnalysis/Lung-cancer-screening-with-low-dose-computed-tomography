@@ -10,27 +10,33 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 ## PubMed
 ### Boolean term searching
 
-[supraventricular tachycardia AND Valsalva AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=supraventricular%20tachycardia%20AND%20Valsalva%20AND%20random*)
-* Retrieves 5 articles in hand (100% sensitivity) (search 6/19/2017)
-* 12 total citations found (search results reviewed 6/x/2017; 0 additional studies found)
+[lung cancer AND tomography AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222017%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) since 2017 (date of Snowsell systematic review). Note that MSCT does not have the concept of morality in the abstract or MeSH terms although it is in the full test of the publication.
+* Retrieves 6 articles in hand (100% sensitivity) (search 05/26/2019)
+* [278](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222017%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) total citations found
+   * x studies required review of full text
+     * Jone, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
+     * Smith, 2017. PMID [87654321](https://pubmed.gov/87654321). Included
 
 ### Vector searching ('Related citations' search)
 (under construction)
-Seed articles: PMIDs [21714641,24004119,25760561,26485620,22465911,28377492,25783198](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=21714641,24004119,25760561,26485620,22465911,28377492,2578319)
-* [595 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=26314489,28552271,28140013,9851958,2897005)
-* 99 citations when above limited to years 2014 - 2017 (time period after Cochrane review)
-  * [X additional articles found](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
+Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=25372087,25760561,26485620,28377492,25783198,30937431)
+* [303 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=25372087,25760561,26485620,28377492,25783198,30937431&term=2017[pdat]) when above limited to years 2017 - present (time period since Snowsill review) (search 05/26/2019)
+   * x studies required review of full text
+     * Jone, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
+     * Smith, 2017. PMID [87654321](https://pubmed.gov/87654321). Included
 
 ## ClinicalTrials.gov
 
-`supraventricular tachycardia AND Valsalva`
-* [1 citations](https://clinicaltrials.gov/ct2/results?term=supraventricular+tachycardia+AND+Valsalva&Search=Search) (search 6/19/2017)
-  * [NCT02216240](https://clinicaltrials.gov/ct2/show/NCT02216240) (PMID [27613170](https://www.ncbi.nlm.nih.gov/pubmed/27613170)) did not meet inclusion criteria
+`lung cancer AND tomography AND mortality`
+* [33 citations](https://clinicaltrials.gov/ct2/results?term=lung+cancer+AND+tomography+AND+mortality&Search=Search) (search 05/26/2019)
+   * x studies required review of full text
+     * Jone, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
+     * Smith, 2017. PMID [87654321](https://pubmed.gov/87654321). Included
 
 ## Cochrane Central Register of Controlled Trials (CENTRAL)
 
-`supraventricular tachycardia AND Valsalva`
-* [1 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=hypertension) (search 6/19/2017)
+`lung cancer AND tomography AND mortality`
+* [1 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+tomography+AND+mortality) (search 6/19/2017)
   * [http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005182/abstract](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005182.pub4/full) (PMID [27613170](https://www.ncbi.nlm.nih.gov/pubmed/27613170)) did not meet inclusion criteria
 
 ## Cited reference searching
