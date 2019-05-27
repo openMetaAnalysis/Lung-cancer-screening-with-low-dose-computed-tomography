@@ -1,7 +1,7 @@
 # Evidence search
 (under construction)
 ## Inclusion criteria
-Randomized trials of [disease] that compare [intervention] to placebo.
+Randomized trials of [lung cancer] that compare [screening with low-dose cumputed tomography] to placebo.
 
 ## Reconciliation tables
 (under construction)
@@ -14,7 +14,7 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 * Retrieves 6 articles in hand (100% sensitivity) (search 05/26/2019)
 * [278](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222017%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) total citations found
    * x studies required review of full text
-     * Jone, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
+     * Jones, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
      * Smith, 2017. PMID [87654321](https://pubmed.gov/87654321). Included
 
 ### Vector searching ('Related citations' search)
@@ -22,7 +22,7 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=25372087,25760561,26485620,28377492,25783198,30937431)
 * [303 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=25372087,25760561,26485620,28377492,25783198,30937431&term=2017[pdat]) when above limited to years 2017 - present (time period since Snowsill review) (search 05/26/2019)
    * x studies required review of full text
-     * Jone, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
+     * Jones, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
      * Smith, 2017. PMID [87654321](https://pubmed.gov/87654321). Included
 
 ## ClinicalTrials.gov
@@ -30,7 +30,7 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431](htt
 `lung cancer AND tomography AND mortality`
 * [33 citations](https://clinicaltrials.gov/ct2/results?term=lung+cancer+AND+tomography+AND+mortality&Search=Search) (search 05/26/2019)
    * x studies required review of full text
-     * Jone, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
+     * Jones, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
      * Smith, 2017. PMID [87654321](https://pubmed.gov/87654321). Included
 
 ## Cochrane Central Register of Controlled Trials (CENTRAL)
@@ -53,5 +53,5 @@ National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http:/
 * [910 citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017&as_yhi=2020&cites=1550924767538217466&scipsc=1)
  * Citations were sorted be relevance and the first 100 were reviweed
    * x studies required review of full text
-     * Jone, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
+     * Jones, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
      * Smith, 2017. PMID [87654321](https://pubmed.gov/87654321). Included
