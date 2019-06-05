@@ -1,8 +1,7 @@
-Study,Year,PMID,experimental_events,experimental_total,control_events,control_total,rate_male,median_pack_years,invite.frequency,tests.performed
-'National Lung Screening Trial (NLST)',2011,25372087,518,26722,587,26732,,,1,3
-'DANTE',2015,25760561,180,1264,176,1186,,,1,5
-'Danish Lung Cancer Screening Trial (DLCST)',2016,26485620,165,2052,163,2052,,,1,5
-'ITALUNG',2017,28377492,154,1613,181,1593,,,1,4
-'German Lung Cancer Screening Intervention Trial (LUSI)',2015,25783198,29,2029,38,2023,,,1,5
-'MILD',2019,30937431,40,2376,40,1723,,,,
-Nelson',2019,0,157,7900,214,"7,892",,,,4
+Study,Year,PMID,experimental_events,experimental_total,control_events,control_total,rate_male,median_pack_years,invite.frequency,tests.performed,follow-up
+'National Lung Screening Trial (NLST)',2011,25372087,469,26722,552,26730,,,1,3,7.5
+'DANTE',2015,25760561,59,1300,55,1232,,,1,5,
+'Danish Lung Cancer Screening Trial (DLCST)',2016,26485620,165,2052,163,2052,,,1,5,
+'ITALUNG',2017,28377492,43,1613,60,1593,,,1,4,9.3
+'MILD',2019,30937431,31,1723,40,1723,,,,,9.5
+'Nelson',2019,0,157,7900,214,7892,,,,4,
