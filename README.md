@@ -51,7 +51,7 @@ References:
 4. Black WC, Gareen IF, Soneji SS, Sicks JD, Keeler EB, Aberle DR, Naeim A, Church TR, Silvestri GA, Gorelick J, Gatsonis C; National Lung Screening Trial Research Team. Cost-effectiveness of CT screening in the National Lung Screening  Trial. N Engl J Med. 2014 Nov 6;371(19):1793-802. doi: 10.1056/NEJMoa1312547. PMID: [25372087](http://pubmed.gov/25372087)
 
 #### Trial(s) undergoing review
-None
+1. Becker N, Motsch E, Trotter A, Heussel CP, Dienemann H, Schnabel PA, Kauczor HU, González Maldonado S, Miller AB, Kaaks R, Delorme S. Lung cancer mortality reduction by LDCT screening - results from the randomised German LUSI trial. Int  J Cancer. 2019 Jun 4. PMID: [31162856](http://pubmed.gov/31162856) *This is the 9-year follow-up of the LUSI trial.*
 
 #### Trial(s) excluded - selected list of important trial(s)
 1. Pastorino U, Rossi M, Rosato V, Marchianò A, Sverzellati N, Morosi C, Fabbri A, Galeone C, Negri E, Sozzi G, Pelosi G, La Vecchia C. Annual or biennial CT screening versus observation in heavy smokers: 5-year results of the MILD trial. Eur J Cancer Prev. 2012 May;21(3):308-15. doi: 10.1097/CEJ.0b013e328351e1b6. PMID: [22465911](http://pubmed.gov/22465911) *Excluded on the basis of concerns expressied in the HTA systematic review (Snowsill).*
