@@ -35,9 +35,8 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431](htt
 
 ## Cochrane Central Register of Controlled Trials (CENTRAL)
 
-`lung cancer AND tomography AND mortality`
-* [1 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+tomography+AND+mortality) (search 6/19/2017)
-  * [http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005182/abstract](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005182.pub4/full) (PMID [27613170](https://www.ncbi.nlm.nih.gov/pubmed/27613170)) did not meet inclusion criteria
+`lung cancer AND screening AND mortality`
+* [232 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+screening+AND+mortality) since 2017 (search 07/11/2019)
 
 ## Cited reference searching
 (under construction)
