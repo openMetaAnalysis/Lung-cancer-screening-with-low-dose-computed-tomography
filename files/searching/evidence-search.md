@@ -45,6 +45,7 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431](htt
 ### Identifying seminal studies that are the most highly cited
 National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http://pubmed.gov/21714641).
  * [5099 citations](https://scholar.google.com/scholar?cites=1550924767538217466&as_sdt=2005&sciodt=0,5&hl=en) (search 05/26/2019)
+ 
 Manser et al. Cochrane Database Syst Rev. 2013 PMID: [23794187](http://pubmed.gov/23794187)
  * [242 citations](https://scholar.google.com/scholar?cites=6415203990104162860&as_sdt=2005&sciodt=0,5&hl=en) (search 05/26/2019)
 
