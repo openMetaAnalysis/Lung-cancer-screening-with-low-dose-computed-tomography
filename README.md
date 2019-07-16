@@ -10,7 +10,7 @@ Meta-regression of common modulators (year of publication, study size, event rat
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 * [Keep current with this topic](files/searching/Keep-up.md) (under construction)
 
-Acknowledgement: we acknowledge the essential work by the authors of the prior systematic review(s) listed below.
+Acknowledgement: we acknowledge the essential work by the authors of the prior [systematic review(s)](#systematic-reviews) listed below.
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that combines methods of scoping, rapid, and living systematic reviews.  This analysis updates one or more previously published review(s) below. A comparison of studies included in this review compared to prior reviews are in the table, [reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf). Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
@@ -36,18 +36,25 @@ References:
 ### Systematic review(s)
 #### Most recent review(s) at time of last revision of this repository 
 2019
+
 1. Huang KL, Wang SY, Lu WC, Chang YH, Su J, Lu YT. Effects of low-dose computed tomography on lung cancer screening: a systematic review, meta-analysis, and trial sequential analysis. BMC Pulm Med. 2019 Jul 11;19(1):126. PMID: [31296196](http://pubmed.gov/31296196).
 2. Rota M, Pizzato M, La Vecchia C, Boffetta P. Efficacy of lung cancer screening appears to increase with prolonged intervention: results from the MILD trial and a meta-analysis. Ann Oncol. 2019 May 2. PMID: [31046087](http://pubmed.gov/31046087).
+
 2018
+
 3. Wang X, Liu H, Shen Y, Li W, Chen Y, Wang H. Low-dose computed tomography (LDCT) versus other cancer screenings in early diagnosis of lung cancer: A meta-analysis. Medicine (Baltimore). 2018 Jul;97(27):e11233. PMID: [29979385](http://pubmed.gov/29979385).
 4. Snowsill T, Yang H, Griffin E, Long L, Varley-Campbell J, Coelho H, Robinson S, Hyde C. Low-dose computed tomography for lung cancer screening in high-risk populations: a systematic review and economic evaluation. Health Technol Assess.  2018 Nov;22(69):1-276. doi: 10.3310/hta22690. PMID: [30518460](http://pubmed.gov/30518460)
+
 2016
+
 5. Usman Ali M, Miller J, Peirson L, Fitzpatrick-Lewis D, Kenny M, Sherifali D, Raina P. Screening for lung cancer: A systematic review and meta-analysis. Prev Med. 2016 Aug;89:301-314. PMID: [27130532](http://pubmed.gov/27130532).
 6. Coureau G, Salmi LR, Etard C, Sancho-Garnier H, Sauvaget C, Mathoulin-Pélissier S. Low-dose computed tomography screening for lung cancer in populations highly exposed to tobacco: A systematic methodological appraisal of published randomised controlled trials. Eur J Cancer. 2016 Jul;61:146-56. PMID: [27211572](http://pubmed.gov/27211572).
 7. Fu C, Liu Z, Zhu F, Li S, Jiang L. A meta-analysis: is low-dose computed tomography a superior method for risky lung cancers screening population? Clin Respir J. 2016 May;10(3):333-41. PMID: [25307063](http://pubmed.gov/25307063).
 8. Usman Ali M, Miller J, Peirson L, Fitzpatrick-Lewis D, Kenny M, Sherifali D, Raina P. Screening for lung cancer: A systematic review and meta-analysis. Prev Med. 2016 Aug;89:301-314. doi: 10.1016/j.ypmed.2016.04.015. PMID: [27130532](http://pubmed.gov/27130532)
 9. Coureau G, Salmi LR, Etard C, Sancho-Garnier H, Sauvaget C, Mathoulin-Pélissier S. Low-dose computed tomography screening for lung cancer in populations highly exposed to tobacco: A systematic methodological appraisal of published randomised controlled trials. Eur J Cancer. 2016 Jul;61:146-56. PMID: [27211572](http://pubmed.gov/27211572)
+
 2013
+
 11. Humphrey LL, Deffebach M, Pappas M, Baumann C, Artis K, Mitchell JP, Zakher B, Fu R, Slatore CG. Screening for lung cancer with low-dose computed tomography: a  systematic review to update the US Preventive services task force recommendation. Ann Intern Med. 2013 Sep 17;159(6):411-420. PMID: [23897166](http://pubmed.gov/23897166).
 12. Humphrey L, Deffebach M, Pappas M, Baumann C, Artis K, Mitchell JP, Zakher B, Fu R, Slatore C. Screening for Lung Cancer: Systematic Review to Update the U.S. Preventive Services Task Force Recommendation [Internet]. Rockville (MD): Agency for Healthcare Research and Quality (US); 2013 Jul. Available from http://www.ncbi.nlm.nih.gov/books/NBK154610/ PMID: [24027793](http://pubmed.gov/24027793).
 13. Manser R, Lethaby A, Irving LB, Stone C, Byrnes G, Abramson MJ, Campbell D. Screening for lung cancer. Cochrane Database Syst Rev. 2013 Jun 21;(6):CD001991. PMID: [23794187](http://pubmed.gov/23794187)
