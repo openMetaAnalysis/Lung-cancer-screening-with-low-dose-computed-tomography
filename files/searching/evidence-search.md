@@ -10,12 +10,11 @@ Randomized trials of [lung cancer] that compare [screening with low-dose cumpute
 ## PubMed
 ### Boolean term searching
 
-[lung cancer AND tomography AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222017%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) since 2017 (date of Snowsell systematic review). Note that MSCT does not have the concept of morality in the abstract or MeSH terms although it is in the full test of the publication.
-* Retrieves 6 articles in hand (100% sensitivity) (search 05/26/2019)
+[lung cancer AND tomography AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222000%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) since 2000. 
+* Retrieves [all 8 articles](https://www.ncbi.nlm.nih.gov/pubmed/?term=26485620+25760561+28377492+31360863+31162856+30937431+25372087+29496251) in hand (100% sensitivity) (search 09/15/2019)
+[lung cancer AND tomography AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222000%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) since 2017 (date of Snowsell systematic review). 
 * [278](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222017%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) total citations found
-   * x studies required review of full text
-     * Jones, 2016. PMID [12345678](https://pubmed.gov/12345678). Excluded.
-     * Smith, 2017. PMID [87654321](https://pubmed.gov/87654321). Included
+   * No additional studies included
 
 ### Vector searching ('Related citations' search)
 (under construction)
