@@ -33,6 +33,7 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431](htt
 
 `lung cancer AND screening AND mortality`
 * [232 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+screening+AND+mortality) since 2017 (search 07/11/2019)
+   * No additional studies included
 
 ## Cited reference searching with Google Scholar
 
@@ -45,5 +46,5 @@ Manser et al. Cochrane Database Syst Rev. 2013 PMID: [23794187](http://pubmed.go
 
 ### Searching 'randomized AND mortality' since 2017 (search date of [Snowsill systematic review]()) within the highly cited studies using Google Scholar 
 National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http://pubmed.gov/21714641).
-* [910 citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017&as_yhi=2020&cites=1550924767538217466&scipsc=1)
- * No additional studies included (search 05/26/2019)
+* [910 citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017&as_yhi=2020&cites=1550924767538217466&scipsc=1) (search 05/26/2019
+ * No additional studies included)
