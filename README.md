@@ -3,7 +3,7 @@ Lung cancer screening with low-dose computed tomography
 A living systematic review
 
 **[Click here](
-https://openmetaanalysis.github.io/Lung-cancer-screening
+https://openmetaanalysis.github.io/lung-cancer-screening
 ) to see the meta-analysis.**
 
 **If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
