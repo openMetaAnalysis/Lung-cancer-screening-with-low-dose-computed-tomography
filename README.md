@@ -2,33 +2,39 @@ Lung cancer screening with low-dose computed tomography
 ============================================
 A living systematic review
 
-Short url: http://openmetaanalysis.github.io/lung-cancer-screening
+**[Click here](
+https://openmetaanalysis.github.io/Lung-cancer-screening
+) to see the meta-analysis.**
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. However, heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 61%. This review updates previously published meta-analysis(es).(citation[s] below)
+**If you want to be notified of new trials being posted at ClinicalTrials, PubMed, or here:**
+* [Subscribe by email or RSS](files/searching/Keep-up.md) (under construction)
 
-Meta-regression of common modulators (year of publication, study size, event rate in the control groups) as well as the number of rounds of screening, find that the outcome of the intervention is effected by these factors.
-* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
-* [Keep current with this topic](files/searching/Keep-up.md) (under construction)
+**If you want to comment on this meta-analysis:**
+* Contact a [contributor](../../network/members) if you need access
+* Open an [issue](../../issues/new)
 
-Acknowledgement: we acknowledge the essential work by the authors of the prior [systematic review(s)](#systematic-reviews) listed below.
+**If you want to update this meta-analysis:**
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that combines methods of scoping, rapid, and living systematic reviews.  This analysis updates one or more previously published review(s) below. A comparison of studies included in this review compared to prior reviews are in the table, [reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf). Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
-* [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
-* [Evidence search](files/searching/evidence-search.md) for this review (under construction)
+[Suggested steps](http://tinyurl.com/openMetaAnalysis-steps)
 
-**Results:** Details of the studies included are in the:
-* [Reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) (under construction)
-* [Description of studies (PICO table)](files/study-details/table-pico.pdf) (under construction)
-* [Risk of bias assessment](files/study-details/table-bias.pdf) (under construction)
-* [Forest plots](../master/files/forest-plots) ([source data](files/data))
+Text files:
+* [Clinical summary and references](../../tree/gh-pages/index.html)
+* [Data tables](../master/files/data)
+* [PRISMA files](../master/files/PRISMA)
+* [PICO and Bias tables (word processor versions)](../master/files/study-details)
+* [Reconciliation tables (word processor versions)](../master/files/reconciliation-tables)
+
+Images:
+* [Forest plots](../master/files/forest-plots)
+* [GRADE Profiles](../master/files/GRADE-profiles)
+* [Metaregression plots](../master/files/metaregression) (optional)
 * [Network plots](../master/files/network) (optional)
-* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 
-The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
-![Principle results](files/forest-plots/Outcome-Primary.png)
+**Do you want to make a copy and then suggestion revisions?**
 
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
-![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
+* '[Fork](../../fork)' this repository
+* Make your edits
+* Initiate a '[Pull request](../../compare/)' for your changes to be merged.
 
 References:
 ----------------------------------
