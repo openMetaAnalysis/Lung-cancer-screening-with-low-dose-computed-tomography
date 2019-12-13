@@ -66,7 +66,14 @@ National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http:/
 Manser et al. Cochrane Database Syst Rev. 2013 PMID: [23794187](http://pubmed.gov/23794187)
  * [242 citations](https://scholar.google.com/scholar?cites=6415203990104162860&as_sdt=2005&sciodt=0,5&hl=en) (search 05/26/2019)
 
-### Searching 'randomized AND mortality' since 2017 (search date of [Snowsill systematic review]()) within the highly cited studies using Google Scholar 
+### Searching 'randomized AND mortality' since 2017 (search date of [Snowsill systematic review]()) within studies that cited the NLST
 National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http://pubmed.gov/21714641).
-* [910 citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017&as_yhi=2020&cites=1550924767538217466&scipsc=1) (search 05/26/2019
- * No additional studies included)
+
+#### Search 05/26/2019
+* [910 citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017&as_yhi=2020&cites=1550924767538217466&scipsc=1) (search 05/26/2019)
+ * No additional studies included
+
+#### Search xx/xx/20xx
+National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http://pubmed.gov/21714641).
+* [xxx citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2020&cites=1550924767538217466&scipsc=1) (search xx/xx/20xx)
+ * No additional studies included
