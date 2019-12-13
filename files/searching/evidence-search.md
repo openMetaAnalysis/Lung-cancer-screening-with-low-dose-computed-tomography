@@ -44,7 +44,13 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431,2949
 ## Cochrane Central Register of Controlled Trials (CENTRAL)
 
 `lung cancer AND screening AND mortality`
+
+#### Search 07/11/2019
 * [232 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+screening+AND+mortality) since 2017 (search 07/11/2019)
+   * No additional studies included
+
+#### Search xx/xx/20xx
+* [0 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+screening+AND+mortality) since 06/2019 (search xx/xx/20xx)
    * No additional studies included
 
 ## Cited reference searching with Google Scholar
