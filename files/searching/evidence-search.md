@@ -74,6 +74,5 @@ National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http:/
  * No additional studies included
 
 #### Search xx/xx/20xx
-National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http://pubmed.gov/21714641).
 * [xxx citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2020&cites=1550924767538217466&scipsc=1) (search xx/xx/20xx)
  * No additional studies included
