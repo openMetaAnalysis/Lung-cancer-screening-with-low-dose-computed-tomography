@@ -38,9 +38,13 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431,2949
 ## ClinicalTrials.gov
 
 `lung cancer AND tomography AND mortality`
+
+#### Search 05/26/2019
 * [33 citations](https://clinicaltrials.gov/ct2/results?term=lung+cancer+AND+tomography+AND+mortality&Search=Search) (search 05/26/2019)
    * No additional studies included
-
+#### Search xx/xx/20xx
+* [xx citations](https://clinicaltrials.gov/ct2/results?term=lung+cancer+AND+tomography+AND+mortality&Search=Search) (search xx/xx/20xx)
+   * No additional studies included
 ## Cochrane Central Register of Controlled Trials (CENTRAL)
 
 `lung cancer AND screening AND mortality`
