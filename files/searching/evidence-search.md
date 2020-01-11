@@ -1,10 +1,8 @@
 # Evidence search
-(under construction)
 ## Inclusion criteria
 Randomized trials of [lung cancer] that compare [screening with low-dose cumputed tomography] to placebo.
 
 ## Reconciliation tables
-(under construction)
 * [Comparison of included studies with prior systematic reviews](../reconciliation-tables)
 
 ## PubMed
