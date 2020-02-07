@@ -1,9 +1,9 @@
-Study,Year,PMID,experimental_events,experimental_total,control_events,control_total,rate_male,median_pack_years,invite.frequency,tests.performed
-'National Lung Screening Trial (NLST)',2011,25372087,1912,26722,2039,26732,,,1,3
-'DANTE',2015,25760561,180,1264,176,1186,,,1,5
-'Danish Lung Cancer Screening Trial (DLCST)',2016,26485620,165,2052,163,2052,,,1,5
-'ITALUNG',2017,28377492,154,1613,181,1593,,,1,4
-'German Lung Cancer Screening Intervention Trial (LUSI)',2015,25783198,43,2029,54,2023,,,1,5
-'MILD',2019,30937431,40,2376,40,1723,,,,
-Nelson',2019,0,904,7900,934,"7,892",,,,4
-'LSS',2018,0,139,1660,116,1658,,,,
+Study,Year,PMID,experimental_events,experimental_total,control_events,control_total,Control,%_male,Median_age,median_pack_years,%_current,invite.frequency,tests.performed,follow-up,% stage I
+NLST,2011,25372087,1912,26722,2039,26732,LDCT vs. CXR,59.5,61.4,48,48,1,3,6.5,49
+DANTE,2015,25760561,186,1300,183,1232,LDCT vs. usual care or no screening,100,64.6,45,56.9,1,5,8.4,45
+DLCST,2016,26485620,165,2052,163,2052,LDCT vs. usual care or no screening,56,57.9,36.2,76.1,1,5,9.8,50
+ITALUNG,2017,28377492,154,1613,181,1593,LDCT vs. usual care or no screening,65,60.8,40,66,1,4,9.3,36
+LSS,2018,31360863,139,1660,116,1658,LDCT vs. CXR,59,62,54,58,1,2,5.2,
+LUSI,2019,31162856,148,2029,150,2023,LDCT vs. usual care or no screening,64.7,55,,61.9,1,5,8.9,56
+MILD,2019,30937431,92,1723,106,1723,LDCT vs. usual care or no screening,64.5,57,38,87.3,1,5,9.5,51
+NELSON,2020,31995683,959,7900,974,7892,LDCT vs. usual care or no screening,84,58,38,55,1,4,9,40
