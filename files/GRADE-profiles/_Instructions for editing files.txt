@@ -1,0 +1,5 @@
+1. This GRADE Profile was made with https://gdt.gradepro.org/
+2. If you would like to submit a revision for this file...
+3. "Fork" make a copy of this respository. The copy will be in your personal directory.
+4. Upload with drag and drop the new GRADE files to the correct directory. Note that the file named "Outcome-Primary.png" will be displayed on the main page of the meta-analysis.
+5. Initial a "Pull request" for your revised files to be accepted in the openMetaAnalysis repository.
