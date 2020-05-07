@@ -16,9 +16,9 @@ Randomized trials of [lung cancer] that compare [screening with low-dose cumpute
 * [278](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222017%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) total citations found (search 05/26/2019)
    * No additional studies included
 
-#### Search xx/xx/20xx
+#### Search 05/07/2020
 [lung cancer AND tomography AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222000%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) limited to citations since 05/26/2019 (time period since initial 05/26/2019 search) to xx/xx/20xx 
-* [xx](https://www.ncbi.nlm.nih.gov/pubmed?term=((lung%20cancer%20AND%20tomography%20AND%20random*))%20AND%20(%222017%22%5BDate%20-%20Publication%5D%20%3A%20%223000%22%5BDate%20-%20Publication%5D)) total citations found (search xx/xx/20xx)
+* [172](https://pubmed.ncbi.nlm.nih.gov/?term=((lung+cancer+AND+tomography+AND+random*))+AND+(%222019-05-26%22%5BDate+-+Publication%5D+%3A+%223000%22%5BDate+-+Publication%5D))) total citations found (search 05/07/20xx)
    * No additional studies included
 
 ### Vector searching ('Find Related Data' search)
