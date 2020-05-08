@@ -28,10 +28,10 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431](htt
 * [303 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=25372087,25760561,26485620,28377492,25783198,30937431&term=2017[pdat]) when above limited to years 2017 - present (time period since Snowsill review) (search 05/26/2019). note that date limits since 2019-05-26 must be manually added to this search at PubMed
    * No additional studies included
 
-#### Search xx/xx/20xx
+#### Search 05/07/2020
 Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431,29496251,31360863](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=25372087,25760561,26485620,28377492,25783198,30937431,29496251,31360863)
-* [xx citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=25372087,25760561,26485620,28377492,25783198,30937431,29496251,31360863&term=2019/05/26[pd]) when above limited to citations since 05/26/2019 (time of initial 05/26/2019 search)
-   * 123 additional studies included
+* [123 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=25372087,25760561,26485620,28377492,25783198,30937431,29496251,31360863&term=2019/05/26[pd]) when above limited to citations since 05/26/2019 (time of initial 05/26/2019 search)
+   * xx additional studies included
 
 ## ClinicalTrials.gov
 
@@ -40,9 +40,10 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431,2949
 #### Search 05/26/2019
 * [33 citations](https://clinicaltrials.gov/ct2/results?term=lung+cancer+AND+tomography+AND+mortality&Search=Search) (search 05/26/2019)
    * No additional studies included
-#### Search xx/xx/20xx
-* [xx citations](https://clinicaltrials.gov/ct2/results?term=lung+cancer+AND+tomography+AND+mortality&Search=Search) (search xx/xx/20xx)
+#### Search 05/08/2020
+* [40 citations](https://clinicaltrials.gov/ct2/results?term=lung+cancer+AND+tomography+AND+mortality&Search=Search) (no date restriction)
    * No additional studies included
+
 ## Cochrane Central Register of Controlled Trials (CENTRAL)
 
 `lung cancer AND screening AND mortality`
@@ -51,8 +52,8 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431,2949
 * [232 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+screening+AND+mortality) since 2017 (search 07/11/2019)
    * No additional studies included
 
-#### Search xx/xx/20xx
-* [0 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+screening+AND+mortality) since 06/2019 (search xx/xx/20xx)
+#### Search 05/08/2020
+* [4 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+screening+AND+mortality) since 05/2019
    * No additional studies included
 
 ## Cited reference searching with Google Scholar
@@ -71,6 +72,6 @@ National Lung Screening Trial (NLST). N Engl J Med. 2011 PMID: [21714641](http:/
 * [910 citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2017&as_yhi=2020&cites=1550924767538217466&scipsc=1) (search 05/26/2019)
  * No additional studies included
 
-#### Search xx/xx/20xx
-* [xxx citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2020&cites=1550924767538217466&scipsc=1) (search xx/xx/20xx)
+#### Search 05/08/2020
+* [569 citations](https://scholar.google.com/scholar?as_vis=0&q=randomized+AND+mortality&hl=en&as_sdt=2005&sciodt=0,5&as_ylo=2019&as_yhi=2020&cites=1550924767538217466&scipsc=1) (dates 2019-2020)
  * No additional studies included
