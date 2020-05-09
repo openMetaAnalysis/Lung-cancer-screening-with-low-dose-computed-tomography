@@ -53,7 +53,7 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431,2949
    * No additional studies included
 
 #### Search 05/08/2020
-* [4 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+screening+AND+mortality) since 05/2019
+* [71 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=lung+cancer+AND+screening+AND+mortality) since 05/2019
    * No additional studies included
 
 ## Cited reference searching with Google Scholar
