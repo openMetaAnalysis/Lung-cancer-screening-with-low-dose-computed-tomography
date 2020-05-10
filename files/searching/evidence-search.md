@@ -31,7 +31,7 @@ Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431](htt
 #### Search 05/07/2020
 Seed articles: PMIDs [25372087,25760561,26485620,28377492,25783198,30937431,29496251,31360863](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=25372087,25760561,26485620,28377492,25783198,30937431,29496251,31360863)
 * [123 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=25372087,25760561,26485620,28377492,25783198,30937431,29496251,31360863&term=2019/05/26[pd]) when above limited to citations since 05/26/2019 (time of initial 05/26/2019 search)
-   * xx additional studies included
+   * No additional studies included
 
 ## ClinicalTrials.gov
 
